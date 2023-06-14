@@ -19,7 +19,6 @@
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.3",
-    "@types/lodash": "^4.14.194",
     "hygen": "^6.2.11",
     "parcel": "^2.8.3",
     "parcel-transformer-lit-sass": "^0.1.0",
