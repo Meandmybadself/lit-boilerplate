@@ -14,8 +14,7 @@
     "new:page": "hygen lit-page new"
   },
   "dependencies": {
-    "lit": "^2.7.4",
-    "lodash": "^4.17.21"
+    "lit": "^2.7.4"
   },
   "devDependencies": {
     "@parcel/transformer-sass": "^2.8.3",
